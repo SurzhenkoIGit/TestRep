@@ -1,0 +1,23 @@
+C:\Users\user\Desktop\учеба\Стационар\C++\Дз 71\DialogResult\DialogResult\bin\Debug\DialogResult.exe.config
+C:\Users\user\Desktop\учеба\Стационар\C++\Дз 71\DialogResult\DialogResult\bin\Debug\DialogResult.exe
+C:\Users\user\Desktop\учеба\Стационар\C++\Дз 71\DialogResult\DialogResult\bin\Debug\DialogResult.pdb
+C:\Users\user\Desktop\учеба\Стационар\C++\Дз 71\DialogResult\DialogResult\obj\Debug\DialogResult.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\учеба\Стационар\C++\Дз 71\DialogResult\DialogResult\obj\Debug\DialogResult.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\учеба\Стационар\C++\Дз 71\DialogResult\DialogResult\obj\Debug\DialogResult.DialogForm.resources
+C:\Users\user\Desktop\учеба\Стационар\C++\Дз 71\DialogResult\DialogResult\obj\Debug\DialogResult.Form1.resources
+C:\Users\user\Desktop\учеба\Стационар\C++\Дз 71\DialogResult\DialogResult\obj\Debug\DialogResult.Properties.Resources.resources
+C:\Users\user\Desktop\учеба\Стационар\C++\Дз 71\DialogResult\DialogResult\obj\Debug\DialogResult.csproj.GenerateResource.cache
+C:\Users\user\Desktop\учеба\Стационар\C++\Дз 71\DialogResult\DialogResult\obj\Debug\DialogResult.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\учеба\Стационар\C++\Дз 71\DialogResult\DialogResult\obj\Debug\DialogResult.exe
+C:\Users\user\Desktop\учеба\Стационар\C++\Дз 71\DialogResult\DialogResult\obj\Debug\DialogResult.pdb
+C:\Users\мк\Downloads\DialogResult\DialogResult\bin\Debug\DialogResult.exe.config
+C:\Users\мк\Downloads\DialogResult\DialogResult\bin\Debug\DialogResult.exe
+C:\Users\мк\Downloads\DialogResult\DialogResult\bin\Debug\DialogResult.pdb
+C:\Users\мк\Downloads\DialogResult\DialogResult\obj\Debug\DialogResult.csproj.AssemblyReference.cache
+C:\Users\мк\Downloads\DialogResult\DialogResult\obj\Debug\DialogResult.DialogForm.resources
+C:\Users\мк\Downloads\DialogResult\DialogResult\obj\Debug\DialogResult.Form1.resources
+C:\Users\мк\Downloads\DialogResult\DialogResult\obj\Debug\DialogResult.Properties.Resources.resources
+C:\Users\мк\Downloads\DialogResult\DialogResult\obj\Debug\DialogResult.csproj.GenerateResource.cache
+C:\Users\мк\Downloads\DialogResult\DialogResult\obj\Debug\DialogResult.csproj.CoreCompileInputs.cache
+C:\Users\мк\Downloads\DialogResult\DialogResult\obj\Debug\DialogResult.exe
+C:\Users\мк\Downloads\DialogResult\DialogResult\obj\Debug\DialogResult.pdb
